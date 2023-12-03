@@ -1,1 +1,0 @@
-# Difference-between-docker-and-PODMAN
